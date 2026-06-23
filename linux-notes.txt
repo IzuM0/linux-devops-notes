@@ -1,3 +1,4 @@
 Linux rules
 grep searches text
 sed replaces text
+awk process text
