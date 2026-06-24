@@ -1,6 +1,6 @@
 # Linux DevOps Notes
 
-This repository contains my Linux and DevOps learning journey.
+This repository contains my Cloud and DevOps learning journey.
 
 ## Topics Covered
 
